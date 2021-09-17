@@ -81,4 +81,4 @@ async def ban(ctx, user1, *, reason):
     if "879039825624301589" in [y.id for y in ctx.message.author.roles]:
         sus = bot.get_user(user1)
         
-bot.run('ODMxMTU1ODM0MzMwNDE1MTI2.YHRIMQ.1CQjQMtYICk7LXEZwy5Jj-7_T0c')
+bot.run('TOKEN')
